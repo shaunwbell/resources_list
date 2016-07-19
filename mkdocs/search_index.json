@@ -2,13 +2,13 @@
     "docs": [
         {
             "location": "/", 
-            "text": "EcoFOCI and Oceanographic/Atmospheric Data Analysis Resources\n\n\nOceanographic Data Resources\n\n\nMeteorological Data Resources\n\n\nData Visualization Resources\n\n\nProgramming and Analysis Resources\n\n\n\n\nPython\n\n\nAnaconda / Conda (package manager)\n\n\n\n\n\n\nRstudio\n\n\nCRAN\n\n\n\n\n\n\n\n\nVisualization Software\n\n\n\n\nmkdocs additional help\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.", 
+            "text": "EcoFOCI\n\n\nOceanographic/Atmospheric Data Analysis Resources\n\n\nOceanographic Data Resources\n\n\nMeteorological Data Resources\n\n\nData Visualization Resources\n\n\nProgramming and Analysis Resources\n\n\n\n\nPython\n\n\nAnaconda / Conda (package manager)\n\n\n\n\n\n\nRstudio\n\n\nCRAN\n\n\n\n\n\n\n\n\nVisualization Software\n\n\n\n\nmkdocs additional help\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.", 
             "title": "Home"
         }, 
         {
-            "location": "/#ecofoci-and-oceanographicatmospheric-data-analysis-resources", 
-            "text": "", 
-            "title": "EcoFOCI and Oceanographic/Atmospheric Data Analysis Resources"
+            "location": "/#ecofoci", 
+            "text": "Oceanographic/Atmospheric Data Analysis Resources", 
+            "title": "EcoFOCI"
         }, 
         {
             "location": "/#oceanographic-data-resources", 
