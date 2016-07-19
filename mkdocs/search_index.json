@@ -74,6 +74,21 @@
             "location": "/weather/#pnw-seattle", 
             "text": "UW Observational Data", 
             "title": "PNW / Seattle"
+        }, 
+        {
+            "location": "/visualizations/", 
+            "text": "Visualization Examples\n\n\nM2 Berring Sea Prawler Data", 
+            "title": "Visualization Examples"
+        }, 
+        {
+            "location": "/visualizations/#visualization-examples", 
+            "text": "", 
+            "title": "Visualization Examples"
+        }, 
+        {
+            "location": "/visualizations/#m2-berring-sea-prawler-data", 
+            "text": "", 
+            "title": "M2 Berring Sea Prawler Data"
         }
     ]
 }
