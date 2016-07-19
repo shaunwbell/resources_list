@@ -54,6 +54,21 @@
             "location": "/about/#shaun-bell", 
             "text": "", 
             "title": "Shaun Bell"
+        }, 
+        {
+            "location": "/weather/", 
+            "text": "Regional Weather Roundup (Seattle)\n\n\nPNW / Seattle\n\n\n\n\nUW Observational Data", 
+            "title": "Weather"
+        }, 
+        {
+            "location": "/weather/#regional-weather-roundup-seattle", 
+            "text": "", 
+            "title": "Regional Weather Roundup (Seattle)"
+        }, 
+        {
+            "location": "/weather/#pnw-seattle", 
+            "text": "UW Observational Data", 
+            "title": "PNW / Seattle"
         }
     ]
 }
