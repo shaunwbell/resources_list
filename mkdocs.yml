@@ -1,6 +1,0 @@
-site_name: EcoFOCI Data Resource List
-pages:
-- Home: index.md
-- About: about.md
-- Weather: weather.md
-- Visualization Examples: visualizations.md
