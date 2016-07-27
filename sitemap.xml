@@ -27,6 +27,22 @@
 
     
     <url>
+     <loc>None/instrumentation/</loc>
+     <lastmod>2016-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/data_vis_resources/</loc>
+     <lastmod>2016-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
      <loc>None/visualizations/</loc>
      <lastmod>2016-07-27</lastmod>
      <changefreq>daily</changefreq>
