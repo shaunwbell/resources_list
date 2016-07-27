@@ -67,17 +67,17 @@
         }, 
         {
             "location": "/instrumentation/", 
-            "text": "EcoFOCI Instrumentation\n\n\nMeteorology\n\n\n\n\nWPAK_2000 : Coastal Environmental Systems\n\n\n\n\nOceanography\n\n\n\n\nSeabird\n\n\nWetlabs\n\n\nSatlantic\n\n\n\n\n\n\nBiospherical\n\n\n\n\nData Platforms", 
+            "text": "EcoFOCI Instrumentation\n\n\nInstrumentation utilized by the EcoFOCI research program\n\n\nMeteorology\n\n\n\n\nWPAK_2000 - \nCoastal Environmental Systems\n\n\n\n\nOceanography\n\n\n\n\nSeabird\n\n\nWetlabs\n\n\nSatlantic\n\n\n\n\n\n\nBiospherical\n\n\n\n\nData Platforms", 
             "title": "FOCI Instr."
         }, 
         {
             "location": "/instrumentation/#ecofoci-instrumentation", 
-            "text": "", 
+            "text": "Instrumentation utilized by the EcoFOCI research program", 
             "title": "EcoFOCI Instrumentation"
         }, 
         {
             "location": "/instrumentation/#meteorology", 
-            "text": "WPAK_2000 : Coastal Environmental Systems", 
+            "text": "WPAK_2000 -  Coastal Environmental Systems", 
             "title": "Meteorology"
         }, 
         {
