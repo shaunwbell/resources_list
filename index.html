@@ -7,14 +7,14 @@
         
         
         
-        <link rel="shortcut icon" href="../img/favicon.ico">
+        <link rel="shortcut icon" href="./img/favicon.ico">
 
-	<title>About - EcoFOCI Data Resource List</title>
+	<title>EcoFOCI Data Resource List</title>
 
-        <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
-        <link href="../css/font-awesome-4.5.0.css" rel="stylesheet">
-        <link href="../css/base.css" rel="stylesheet">
-        <link rel="stylesheet" href="../css/highlight.css">
+        <link href="./css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="./css/font-awesome-4.5.0.css" rel="stylesheet">
+        <link href="./css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="./css/highlight.css">
 
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
@@ -25,7 +25,7 @@
         
     </head>
 
-    <body>
+    <body class="homepage">
 
         <div class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="container">
@@ -43,7 +43,7 @@
             
 
             <!-- Main title -->
-            <a class="navbar-brand" href="./">EcoFOCI Data Resource List</a>
+            <a class="navbar-brand" href=".">EcoFOCI Data Resource List</a>
         </div>
 
         <!-- Expanded navigation -->
@@ -54,31 +54,31 @@
                 
                 
                     <li class="active">
-                        <a href="./">About</a>
+                        <a href=".">Home</a>
                     </li>
                 
                 
                 
                     <li >
-                        <a href="../weather/">Weather</a>
+                        <a href="weather/">Weather</a>
                     </li>
                 
                 
                 
                     <li >
-                        <a href="../instrumentation/">FOCI Instr.</a>
+                        <a href="instrumentation/">FOCI Instr.</a>
                     </li>
                 
                 
                 
                     <li >
-                        <a href="../data_vis_resources/">Data Vis. Resources</a>
+                        <a href="data_vis_resources/">Data Vis. Resources</a>
                     </li>
                 
                 
                 
                     <li >
-                        <a href="../visualizations/">Examples</a>
+                        <a href="visualizations/">Examples</a>
                     </li>
                 
                 
@@ -98,7 +98,7 @@
                         </a>
                     </li>
                     <li >
-                        <a rel="prev" href="../weather/">
+                        <a rel="prev" href="weather/">
                             Next <i class="fa fa-arrow-right"></i>
                         </a>
                     </li>
@@ -114,14 +114,94 @@
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
-        <li class="main active"><a href="#shaun-bell">Shaun Bell</a></li>
+        <li class="main active"><a href="#ecofoci">EcoFOCI</a></li>
+        
+            <li><a href="#oceanographic-data-resources">Oceanographic Data Resources</a></li>
+        
+            <li><a href="#meteorological-data-resources">Meteorological Data Resources</a></li>
+        
+            <li><a href="#satellite-retrievals">Satellite Retrievals</a></li>
+        
+            <li><a href="#data-visualization-resources">Data Visualization Resources</a></li>
+        
+            <li><a href="#programming-and-analysis-resources">Programming and Analysis Resources</a></li>
         
     
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h1 id="shaun-bell">Shaun Bell</h1></div>
+<h1 id="ecofoci">EcoFOCI</h1>
+<p>Oceanographic/Atmospheric Data Analysis Resources</p>
+<h2 id="oceanographic-data-resources">Oceanographic Data Resources</h2>
+<ul>
+<li><a href="http://www.ndbc.noaa.gov/">National Buoy Data Center</a></li>
+<li><a href="http://www.esrl.noaa.gov/psd/data/gridded/data.noaa.oisst.v2.highres.html">NOAA OI SST V2 High Resolution Dataset</a></li>
+<li><a href="https://planetos.com/">PlanetOS</a> replaced marineexplorer.org and is trying to be a data discovery portal for earth sciences.</li>
+</ul>
+<h2 id="meteorological-data-resources">Meteorological Data Resources</h2>
+<ul>
+<li><a href="http://www.esrl.noaa.gov/psd/data/gridded/data.narr.html">NARR</a> data (as netcdf)</li>
+<li><a href="http://www.esrl.noaa.gov/psd/data/gridded/data.ncep.reanalysis2.html">NCEPV2</a> data (as netcdf)<ul>
+<li>And many additional gridded datasets are available through ESRL</li>
+</ul>
+</li>
+</ul>
+<p><strong><em> The NARR and NCEP data are initially developed by NCEP and are grib files.  As of June 2016, ESRL migrated all data into netCDF4-classic data (which is essentially netcdf3) </em></strong> </p>
+<h3 id="metocean-visualizations">Met./Ocean. Visualizations</h3>
+<ul>
+<li><a href="https://earth.nullschool.net/">earth.nullschool.net</a></li>
+</ul>
+<h2 id="satellite-retrievals">Satellite Retrievals</h2>
+<ul>
+<li><a href="https://worldview.earthdata.nasa.gov/">NASA Worldview</a></li>
+</ul>
+<h2 id="data-visualization-resources">Data Visualization Resources</h2>
+<p><strong>see the <a href="data_vis_resources/">Data Visualization page</a></strong></p>
+<h2 id="programming-and-analysis-resources">Programming and Analysis Resources</h2>
+<ul>
+<li>Python<ul>
+<li>Anaconda / Conda (package manager)</li>
+<li>matplotlib</li>
+<li>netCDF4</li>
+<li>pandas</li>
+</ul>
+</li>
+<li>Rstudio<ul>
+<li>CRAN</li>
+<li>ggplot</li>
+</ul>
+</li>
+<li>
+<p>EarthScience Devoted</p>
+<ul>
+<li>Ferret / pyFerret (NOAA PMEL)</li>
+<li>NCAR Tools (NCL, NCAR Graphics)</li>
+<li>Gempak</li>
+<li>IDL</li>
+<li>ODV (Ocean Data View)</li>
+</ul>
+</li>
+<li>
+<p>Common Data Formats</p>
+<ul>
+<li>netcdf</li>
+<li>hdf</li>
+<li>grib</li>
+<li>csv</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h3 id="mkdocs-additional-help">mkdocs additional help</h3>
+<p>For full documentation visit <a href="http://mkdocs.org">mkdocs.org</a>.</p>
+<h4 id="commands">Commands</h4>
+<ul>
+<li><code>mkdocs new [dir-name]</code> - Create a new project.</li>
+<li><code>mkdocs serve</code> - Start the live-reloading docs server.</li>
+<li><code>mkdocs build</code> - Build the documentation site.</li>
+<li><code>mkdocs help</code> - Print this help message.</li>
+</ul></div>
             
         </div>
 
@@ -131,12 +211,12 @@
             <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
         </footer>
 
-        <script src="../js/jquery-1.10.2.min.js"></script>
-        <script src="../js/bootstrap-3.0.3.min.js"></script>
-        <script src="../js/highlight.pack.js"></script>
-        <script>var base_url = '..';</script>
-        <script data-main="../mkdocs/js/search.js" src="../mkdocs/js/require.js"></script>
-        <script src="../js/base.js"></script>
+        <script src="./js/jquery-1.10.2.min.js"></script>
+        <script src="./js/bootstrap-3.0.3.min.js"></script>
+        <script src="./js/highlight.pack.js"></script>
+        <script>var base_url = '.';</script>
+        <script data-main="./mkdocs/js/search.js" src="./mkdocs/js/require.js"></script>
+        <script src="./js/base.js"></script>
 
         <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
             <div class="modal-dialog">
@@ -165,3 +245,8 @@
 
     </body>
 </html>
+
+<!--
+MkDocs version : 0.15.2
+Build Date UTC : 2016-07-27 16:25:19.082861
+-->
