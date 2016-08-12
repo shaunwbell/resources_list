@@ -92,7 +92,7 @@
         }, 
         {
             "location": "/data_vis_resources/", 
-            "text": "Data Visualization Utilities\n\n\nGeneral Analysis Software and Tools\n\n\nSoftware Packages\n\n\n\n\nTableau Public\n\n\nOcean Data View (ODV)\n\n\n\n\nSoftware Plugins\n\n\n\n\nD3.Js\n\n\nplot.ly\n\n\n\n\nMapping and GIS\n\n\n\n\nQGIS - open source ESRI/ARCGIS compatible software\n\n\nMapbox\n\n\nGoogle Earth / Google Maps", 
+            "text": "Data Visualization Utilities\n\n\nGeneral Analysis Software and Tools\n\n\nSoftware Packages\n\n\n\n\nTableau Public\n\n\nOcean Data View (ODV)\n\n\n\n\nSoftware Plugins\n\n\n\n\nD3.Js\n\n\nplot.ly\n\n\n\n\nMapping and GIS\n\n\nMapping Tools\n\n\n\n\nQGIS - open source ESRI/ARCGIS compatible software\n\n\nMapbox\n\n\nGoogle Earth / Google Maps\n\n\n\n\nMap Sources\n\n\n\n\nNatural Earth\n\n\nARDEM\n Arctic Bathymetry\n\n\nGEBCO\n General Bathymetry\n\n\nETOPO1\n NOAA Bathymetry/Topography", 
             "title": "Data Vis. Resources"
         }, 
         {
@@ -117,8 +117,18 @@
         }, 
         {
             "location": "/data_vis_resources/#mapping-and-gis", 
-            "text": "QGIS - open source ESRI/ARCGIS compatible software  Mapbox  Google Earth / Google Maps", 
+            "text": "", 
             "title": "Mapping and GIS"
+        }, 
+        {
+            "location": "/data_vis_resources/#mapping-tools", 
+            "text": "QGIS - open source ESRI/ARCGIS compatible software  Mapbox  Google Earth / Google Maps", 
+            "title": "Mapping Tools"
+        }, 
+        {
+            "location": "/data_vis_resources/#map-sources", 
+            "text": "Natural Earth  ARDEM  Arctic Bathymetry  GEBCO  General Bathymetry  ETOPO1  NOAA Bathymetry/Topography", 
+            "title": "Map Sources"
         }, 
         {
             "location": "/visualizations/", 
