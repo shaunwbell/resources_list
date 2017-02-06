@@ -9,4 +9,36 @@
     </url>
     
 
+    
+    <url>
+     <loc>/weather/</loc>
+     <lastmod>2017-02-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/instrumentation/</loc>
+     <lastmod>2017-02-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/data_vis_resources/</loc>
+     <lastmod>2017-02-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/visualizations/</loc>
+     <lastmod>2017-02-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
 </urlset>
