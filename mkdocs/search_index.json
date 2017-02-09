@@ -2,48 +2,13 @@
     "docs": [
         {
             "location": "/", 
-            "text": "EcoFOCI\n\n\nOceanographic/Atmospheric Data Analysis Resources\n\n\nOceanographic Data Resources\n\n\n\n\nNational Buoy Data Center\n\n\nNOAA OI SST V2 High Resolution Dataset\n\n\nPlanetOS\n replaced marineexplorer.org and is trying to be a data discovery portal for earth sciences.\n\n\n\n\nMeteorological Data Resources\n\n\n\n\nNARR\n data (as netcdf)\n\n\nNCEPV2\n data (as netcdf)\n\n\nAnd many additional gridded datasets are available through ESRL\n\n\n\n\n\n\n\n\n The NARR and NCEP data are initially developed by NCEP and are grib files.  As of June 2016, ESRL migrated all data into netCDF4-classic data (which is essentially netcdf3) \n \n\n\n\n\nGAK1 - GOA\n long term data\n\n\n\n\nMet./Ocean. Visualizations\n\n\n\n\nearth.nullschool.net\n\n\n\n\nSatellite Retrievals\n\n\n\n\nNASA Worldview\n\n\n\n\nData Visualization Resources\n\n\nsee the \nData Visualization page\n\n\nProgramming and Analysis Resources\n\n\n\n\nPython\n\n\nAnaconda / Conda (package manager)\n\n\nmatplotlib\n\n\nnetCDF4\n\n\npandas\n\n\nxarray\n\n\ngsw (gibbs seawater package TEOS-10)\n\n\nseawater (EOS-90)\n\n\nctd (ctd data read package for seabird files)\n\n\ncmoceans\n (colormap) \n\n\ncartopy\n\n\nbasemap\n\n\n\n\n\n\nRstudio\n\n\nCRAN\n\n\nggplot\n\n\n\n\n\n\n\n\nEarthScience Devoted\n\n\n\n\nFerret / pyFerret (NOAA PMEL)\n\n\nNCAR Tools (NCL, NCAR Graphics)\n\n\nGempak\n\n\nIDL\n\n\nODV (Ocean Data View)\n\n\n\n\n\n\n\n\nCommon Data Formats\n\n\n\n\nnetcdf\n\n\nhdf\n\n\ngrib\n\n\ncsv\n\n\n\n\n\n\n\n\n\n\nmkdocs additional help\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
             "title": "Home"
         }, 
         {
-            "location": "/#ecofoci", 
-            "text": "Oceanographic/Atmospheric Data Analysis Resources", 
-            "title": "EcoFOCI"
-        }, 
-        {
-            "location": "/#oceanographic-data-resources", 
-            "text": "National Buoy Data Center  NOAA OI SST V2 High Resolution Dataset  PlanetOS  replaced marineexplorer.org and is trying to be a data discovery portal for earth sciences.", 
-            "title": "Oceanographic Data Resources"
-        }, 
-        {
-            "location": "/#meteorological-data-resources", 
-            "text": "NARR  data (as netcdf)  NCEPV2  data (as netcdf)  And many additional gridded datasets are available through ESRL      The NARR and NCEP data are initially developed by NCEP and are grib files.  As of June 2016, ESRL migrated all data into netCDF4-classic data (which is essentially netcdf3)      GAK1 - GOA  long term data", 
-            "title": "Meteorological Data Resources"
-        }, 
-        {
-            "location": "/#metocean-visualizations", 
-            "text": "earth.nullschool.net", 
-            "title": "Met./Ocean. Visualizations"
-        }, 
-        {
-            "location": "/#satellite-retrievals", 
-            "text": "NASA Worldview", 
-            "title": "Satellite Retrievals"
-        }, 
-        {
-            "location": "/#data-visualization-resources", 
-            "text": "see the  Data Visualization page", 
-            "title": "Data Visualization Resources"
-        }, 
-        {
-            "location": "/#programming-and-analysis-resources", 
-            "text": "Python  Anaconda / Conda (package manager)  matplotlib  netCDF4  pandas  xarray  gsw (gibbs seawater package TEOS-10)  seawater (EOS-90)  ctd (ctd data read package for seabird files)  cmoceans  (colormap)   cartopy  basemap    Rstudio  CRAN  ggplot     EarthScience Devoted   Ferret / pyFerret (NOAA PMEL)  NCAR Tools (NCL, NCAR Graphics)  Gempak  IDL  ODV (Ocean Data View)     Common Data Formats   netcdf  hdf  grib  csv", 
-            "title": "Programming and Analysis Resources"
-        }, 
-        {
-            "location": "/#mkdocs-additional-help", 
+            "location": "/#welcome-to-mkdocs", 
             "text": "For full documentation visit  mkdocs.org .", 
-            "title": "mkdocs additional help"
+            "title": "Welcome to MkDocs"
         }, 
         {
             "location": "/#commands", 
@@ -51,99 +16,9 @@
             "title": "Commands"
         }, 
         {
-            "location": "/weather/", 
-            "text": "Regional Weather Roundup (Seattle)\n\n\nPNW / Seattle\n\n\n\n\nUW Observational Data", 
-            "title": "Weather"
-        }, 
-        {
-            "location": "/weather/#regional-weather-roundup-seattle", 
-            "text": "", 
-            "title": "Regional Weather Roundup (Seattle)"
-        }, 
-        {
-            "location": "/weather/#pnw-seattle", 
-            "text": "UW Observational Data", 
-            "title": "PNW / Seattle"
-        }, 
-        {
-            "location": "/instrumentation/", 
-            "text": "EcoFOCI Instrumentation\n\n\nInstrumentation utilized by the EcoFOCI research program\n\n\nMeteorology\n\n\n\n\nWPAK_2000 - \nCoastal Environmental Systems\n\n\n\n\nOceanography\n\n\n\n\nSeabird\n\n\nWetlabs\n\n\nSatlantic\n\n\n\n\n\n\nBiospherical\n\n\n\n\nData Platforms", 
-            "title": "FOCI Instr."
-        }, 
-        {
-            "location": "/instrumentation/#ecofoci-instrumentation", 
-            "text": "Instrumentation utilized by the EcoFOCI research program", 
-            "title": "EcoFOCI Instrumentation"
-        }, 
-        {
-            "location": "/instrumentation/#meteorology", 
-            "text": "WPAK_2000 -  Coastal Environmental Systems", 
-            "title": "Meteorology"
-        }, 
-        {
-            "location": "/instrumentation/#oceanography", 
-            "text": "Seabird  Wetlabs  Satlantic    Biospherical", 
-            "title": "Oceanography"
-        }, 
-        {
-            "location": "/instrumentation/#data-platforms", 
-            "text": "", 
-            "title": "Data Platforms"
-        }, 
-        {
-            "location": "/data_vis_resources/", 
-            "text": "Data Visualization Utilities\n\n\nGeneral Analysis Software and Tools\n\n\nSoftware Packages\n\n\n\n\nTableau Public\n\n\nOcean Data View (ODV)\n\n\n\n\nSoftware Plugins\n\n\n\n\nD3.Js\n\n\nplot.ly\n\n\n\n\nMapping and GIS\n\n\nMapping Tools\n\n\n\n\nQGIS - open source ESRI/ARCGIS compatible software\n\n\nMapbox\n\n\nGoogle Earth / Google Maps\n\n\n\n\nMap Sources\n\n\n\n\nNatural Earth\n\n\nARDEM\n Arctic Bathymetry\n\n\nGEBCO\n General Bathymetry\n\n\nETOPO1\n NOAA Bathymetry/Topography\n\n\nleaflet maps\n Maps for Leaflet.js", 
-            "title": "Data Vis. Resources"
-        }, 
-        {
-            "location": "/data_vis_resources/#data-visualization-utilities", 
-            "text": "", 
-            "title": "Data Visualization Utilities"
-        }, 
-        {
-            "location": "/data_vis_resources/#general-analysis-software-and-tools", 
-            "text": "", 
-            "title": "General Analysis Software and Tools"
-        }, 
-        {
-            "location": "/data_vis_resources/#software-packages", 
-            "text": "Tableau Public  Ocean Data View (ODV)", 
-            "title": "Software Packages"
-        }, 
-        {
-            "location": "/data_vis_resources/#software-plugins", 
-            "text": "D3.Js  plot.ly", 
-            "title": "Software Plugins"
-        }, 
-        {
-            "location": "/data_vis_resources/#mapping-and-gis", 
-            "text": "", 
-            "title": "Mapping and GIS"
-        }, 
-        {
-            "location": "/data_vis_resources/#mapping-tools", 
-            "text": "QGIS - open source ESRI/ARCGIS compatible software  Mapbox  Google Earth / Google Maps", 
-            "title": "Mapping Tools"
-        }, 
-        {
-            "location": "/data_vis_resources/#map-sources", 
-            "text": "Natural Earth  ARDEM  Arctic Bathymetry  GEBCO  General Bathymetry  ETOPO1  NOAA Bathymetry/Topography  leaflet maps  Maps for Leaflet.js", 
-            "title": "Map Sources"
-        }, 
-        {
-            "location": "/visualizations/", 
-            "text": "Visualization Examples\n\n\nA blog-like collection of graphics and images with associated brief descriptions or captions.\n\n\nM2 Berring Sea Prawler Data", 
-            "title": "Examples"
-        }, 
-        {
-            "location": "/visualizations/#visualization-examples", 
-            "text": "A blog-like collection of graphics and images with associated brief descriptions or captions.", 
-            "title": "Visualization Examples"
-        }, 
-        {
-            "location": "/visualizations/#m2-berring-sea-prawler-data", 
-            "text": "", 
-            "title": "M2 Berring Sea Prawler Data"
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
         }
     ]
 }
